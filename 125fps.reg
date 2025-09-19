@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+
+
+;By marwy :]
+;fps unlock rdp
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations]
+"DWMFRAMEINTERVAL"=dword:00000008
